@@ -1,7 +1,5 @@
 # Gym Website
 
-![Website Screenshot](https://gym-website-001.netlify.app/screenshot.png)  <!-- Add a screenshot of your website if available -->
-
 ## Overview
 
 This is a modern and responsive gym website built with the latest web technologies. The website provides information about gym services, trainers, class schedules, membership plans, and contact details.
@@ -42,3 +40,10 @@ Make sure you have the following installed on your system:
    ```sh
    git clone https://github.com/yourusername/gym-website.git
    cd gym-website
+   ## How to Run the Project
+
+2. **Run the development server**:
+
+   ```sh
+   npm start
+
